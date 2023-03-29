@@ -1,4 +1,4 @@
-# Patila-SQL-dev-7
+# Patika-SQL-dev-7
 
 film tablosunda bulunan filmleri rating değerlerine göre gruplayınız.
 
